@@ -4,4 +4,4 @@ NPM     : 2106751133
 
 Kelas   : F
 
-Hobi	: Tidur
+Hobi	: Naik kereta
